@@ -1,8 +1,8 @@
 # Exercise-10-Email-Automation---send-email
 
 ~~~
-Name : W Allen Johnston Ozario  
-Reg.No : 21222411004  
+Name : M.JOHNPALL   
+Reg.No : 212224040140  
 ~~~
 
 ## Aim
